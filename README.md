@@ -43,7 +43,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/Js-alex91/landing-page-challenge)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](http://landingpruebajonatansevero.ilustraweb.com/) -- (no ssl certificate installed)
 
 ## My process
 
