@@ -52,7 +52,7 @@ export const Footer = () => {
             <Box className=' h-[80%] w-full flex flex-col items-center justify-around '>
 
                 <Box className=' md:w-1/2 w-full flex flex-col items-center'>
-                    <Typography variant='p' className='text-slate-200 flex justify-center  ' style={{ letterSpacing: '.4rem' }} >35,000+ already joined</Typography>
+                    <Typography variant='inherit' className='text-slate-200 flex justify-center  ' style={{ letterSpacing: '.4rem' }} >35,000+ already joined</Typography>
                     <Typography variant='h5' className='text-slate-200 flex justify-center md:w-1/3 w-full text-center' > Stay up-to-date with what we’re doing</Typography>
                 </Box>
 

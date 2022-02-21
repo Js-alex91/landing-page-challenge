@@ -43,7 +43,7 @@ export const Features = () => {
 
       <Box className=' flex flex-col items-center justify-center h-[20%]'>
         <h1 className=" text-3xl font-semibold "  >Features</h1>
-        <Typography variant='p' className='pt-4 md:w-[40%] w-full text-center' >Our aim is to make it quick and easy for you to access your favourite websites.
+        <Typography variant='inherit' className='pt-4 md:w-[40%] w-full text-center' >Our aim is to make it quick and easy for you to access your favourite websites.
           Your bookmarks sync between your devices so you can access them on the go.</Typography>
       </Box>
 

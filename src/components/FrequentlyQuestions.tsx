@@ -49,7 +49,7 @@ export const FrequentlyQuestions = () => {
                         <Typography variant="h6" className='font-bold'>  What is Bookmark?</Typography>
                     </AccordionSummary>
                     <AccordionDetails>
-                        <Typography variant='p' >
+                        <Typography variant='inherit' >
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt
                             justo eget ultricies fringilla. Phasellus blandit ipsum quis quam ornare mattis.
                         </Typography>
@@ -65,7 +65,7 @@ export const FrequentlyQuestions = () => {
                         <Typography variant="h6" className='font-bold'>How can I request a new browser?</Typography>
                     </AccordionSummary>
                     <AccordionDetails>
-                        <Typography variant='p'>
+                        <Typography variant='inherit'>
                             Vivamus luctus eros aliquet convallis ultricies. Mauris augue massa, ultricies non ligula.
                             Suspendisse imperdiet. Vivamus luctus eros aliquet convallis ultricies. Mauris augue massa,
                             ultricies non ligula. Suspendisse imperdie tVivamus luctus eros aliquet convallis ultricies.
@@ -83,7 +83,7 @@ export const FrequentlyQuestions = () => {
                         <Typography variant="h6" className='font-bold'>Is there a mobile app?</Typography>
                     </AccordionSummary>
                     <AccordionDetails>
-                        <Typography variant='p'>
+                        <Typography variant='inherit'>
                             Sed consectetur quam id neque fermentum accumsan. Praesent luctus vestibulum dolor, ut condimentum
                             urna vulputate eget. Cras in ligula quis est pharetra mattis sit amet pharetra purus. Sed
                             sollicitudin ex et ultricies bibendum.
@@ -100,7 +100,7 @@ export const FrequentlyQuestions = () => {
                         <Typography variant="h6" className='font-bold'> What about other Chromium browsers?</Typography>
                     </AccordionSummary>
                     <AccordionDetails>
-                        <Typography variant='p'>
+                        <Typography variant='inherit'>
                             Integer condimentum ipsum id imperdiet finibus. Vivamus in placerat mi, at euismod dui. Aliquam
                             vitae neque eget nisl gravida pellentesque non ut velit.
                         </Typography>
